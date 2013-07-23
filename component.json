@@ -1,0 +1,11 @@
+{
+  "name": "element-emit",
+  "repo": "enricomarino/element-emit",
+  "description": "emit, plugin for element",
+  "version": "0.0.1",
+  "keywords": ["element", "event", "emit"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
